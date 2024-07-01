@@ -12,6 +12,7 @@
 		7A78A17F2C32F0FF00E07CF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A78A17E2C32F0FF00E07CF8 /* Assets.xcassets */; };
 		7A78A1822C32F0FF00E07CF8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A78A1812C32F0FF00E07CF8 /* Preview Assets.xcassets */; };
 		7A78A18A2C32F11F00E07CF8 /* DisplayingItemsInList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A78A1892C32F11F00E07CF8 /* DisplayingItemsInList.swift */; };
+		7A78A18C2C32F27800E07CF8 /* DisplayingAlteranateRowStylesInList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A78A18B2C32F27800E07CF8 /* DisplayingAlteranateRowStylesInList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		7A78A17E2C32F0FF00E07CF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A78A1812C32F0FF00E07CF8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7A78A1892C32F11F00E07CF8 /* DisplayingItemsInList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayingItemsInList.swift; sourceTree = "<group>"; };
+		7A78A18B2C32F27800E07CF8 /* DisplayingAlteranateRowStylesInList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayingAlteranateRowStylesInList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				7A78A1892C32F11F00E07CF8 /* DisplayingItemsInList.swift */,
+				7A78A18B2C32F27800E07CF8 /* DisplayingAlteranateRowStylesInList.swift */,
 			);
 			path = Lists;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A78A18C2C32F27800E07CF8 /* DisplayingAlteranateRowStylesInList.swift in Sources */,
 				7A78A17D2C32F0FC00E07CF8 /* ContentView.swift in Sources */,
 				7A78A18A2C32F11F00E07CF8 /* DisplayingItemsInList.swift in Sources */,
 				7A78A17B2C32F0FC00E07CF8 /* SwiftUI_RecipesApp.swift in Sources */,
