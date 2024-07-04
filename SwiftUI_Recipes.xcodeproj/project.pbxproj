@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7A1C63372C36E4780066CCF1 /* FilteringItemsInList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1C63362C36E4780066CCF1 /* FilteringItemsInList.swift */; };
 		7A474BE92C343E0B00BC077E /* HidingListRowSeperatorInList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A474BE82C343E0B00BC077E /* HidingListRowSeperatorInList.swift */; };
 		7A474BEB2C343FF400BC077E /* GroupingItemsInList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A474BEA2C343FF400BC077E /* GroupingItemsInList.swift */; };
 		7A474BED2C34447C00BC077E /* ChangingBackgroundColorOfList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A474BEC2C34447C00BC077E /* ChangingBackgroundColorOfList.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7A1C63362C36E4780066CCF1 /* FilteringItemsInList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilteringItemsInList.swift; sourceTree = "<group>"; };
 		7A474BE82C343E0B00BC077E /* HidingListRowSeperatorInList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HidingListRowSeperatorInList.swift; sourceTree = "<group>"; };
 		7A474BEA2C343FF400BC077E /* GroupingItemsInList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupingItemsInList.swift; sourceTree = "<group>"; };
 		7A474BEC2C34447C00BC077E /* ChangingBackgroundColorOfList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangingBackgroundColorOfList.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 				7A474BEA2C343FF400BC077E /* GroupingItemsInList.swift */,
 				7A474BEC2C34447C00BC077E /* ChangingBackgroundColorOfList.swift */,
 				7A474BEE2C344AF500BC077E /* PullToRefreshList.swift */,
+				7A1C63362C36E4780066CCF1 /* FilteringItemsInList.swift */,
 			);
 			path = Lists;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				7A474BEF2C344AF500BC077E /* PullToRefreshList.swift in Sources */,
 				7A474BED2C34447C00BC077E /* ChangingBackgroundColorOfList.swift in Sources */,
 				7A78A18A2C32F11F00E07CF8 /* DisplayingItemsInList.swift in Sources */,
+				7A1C63372C36E4780066CCF1 /* FilteringItemsInList.swift in Sources */,
 				7A78A17B2C32F0FC00E07CF8 /* SwiftUI_RecipesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
