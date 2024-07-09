@@ -12,6 +12,7 @@
 		7A474BEB2C343FF400BC077E /* GroupingItemsInList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A474BEA2C343FF400BC077E /* GroupingItemsInList.swift */; };
 		7A474BED2C34447C00BC077E /* ChangingBackgroundColorOfList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A474BEC2C34447C00BC077E /* ChangingBackgroundColorOfList.swift */; };
 		7A474BEF2C344AF500BC077E /* PullToRefreshList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A474BEE2C344AF500BC077E /* PullToRefreshList.swift */; };
+		7A53724F2C3D801D004A299E /* ScrollToItemInList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A53724E2C3D801D004A299E /* ScrollToItemInList.swift */; };
 		7A78A17B2C32F0FC00E07CF8 /* SwiftUI_RecipesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A78A17A2C32F0FC00E07CF8 /* SwiftUI_RecipesApp.swift */; };
 		7A78A17D2C32F0FC00E07CF8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A78A17C2C32F0FC00E07CF8 /* ContentView.swift */; };
 		7A78A17F2C32F0FF00E07CF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A78A17E2C32F0FF00E07CF8 /* Assets.xcassets */; };
@@ -27,6 +28,7 @@
 		7A474BEA2C343FF400BC077E /* GroupingItemsInList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupingItemsInList.swift; sourceTree = "<group>"; };
 		7A474BEC2C34447C00BC077E /* ChangingBackgroundColorOfList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangingBackgroundColorOfList.swift; sourceTree = "<group>"; };
 		7A474BEE2C344AF500BC077E /* PullToRefreshList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PullToRefreshList.swift; sourceTree = "<group>"; };
+		7A53724E2C3D801D004A299E /* ScrollToItemInList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollToItemInList.swift; sourceTree = "<group>"; };
 		7A78A1772C32F0FC00E07CF8 /* SwiftUI_Recipes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_Recipes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A78A17A2C32F0FC00E07CF8 /* SwiftUI_RecipesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_RecipesApp.swift; sourceTree = "<group>"; };
 		7A78A17C2C32F0FC00E07CF8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				7A474BEC2C34447C00BC077E /* ChangingBackgroundColorOfList.swift */,
 				7A474BEE2C344AF500BC077E /* PullToRefreshList.swift */,
 				7A1C63362C36E4780066CCF1 /* FilteringItemsInList.swift */,
+				7A53724E2C3D801D004A299E /* ScrollToItemInList.swift */,
 			);
 			path = Lists;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				7A78A18C2C32F27800E07CF8 /* DisplayingAlteranateRowStylesInList.swift in Sources */,
 				7A78A17D2C32F0FC00E07CF8 /* ContentView.swift in Sources */,
 				7A474BEB2C343FF400BC077E /* GroupingItemsInList.swift in Sources */,
+				7A53724F2C3D801D004A299E /* ScrollToItemInList.swift in Sources */,
 				7A474BEF2C344AF500BC077E /* PullToRefreshList.swift in Sources */,
 				7A474BED2C34447C00BC077E /* ChangingBackgroundColorOfList.swift in Sources */,
 				7A78A18A2C32F11F00E07CF8 /* DisplayingItemsInList.swift in Sources */,
